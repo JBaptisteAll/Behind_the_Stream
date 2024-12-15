@@ -12,8 +12,6 @@ The main objectives of this project include:
 - Exploring the predominant genres in each country.
 - Investigating seasonal patterns in the addition of new content.
 
-![Overall Show Page](https://github.com/JBaptisteAll/Behind_the_Stream/blob/main/Print%20Screen/Overall_show.gif)
-
 ---
 
 ## **Dataset**
@@ -97,7 +95,7 @@ Each page features interactive filters for deeper exploration, allowing users to
 Below is a showcase of the interactive features of each page:
 
 #### Home Page
-![Home Page GIF](https://github.com/JBaptisteAll/Behind_the_Stream_Analyzing_Netflix-s_Catalogue/blob/main/Print%20Screen/Full_Showdown_-_Page_home.gif)
+![Overall Show Page](https://github.com/JBaptisteAll/Behind_the_Stream/blob/main/Print%20Screen/Overall_show.gif)
 - The Netflix logo at the top left corner acts as a **"Home" button**, allowing users to return to the main page.
 - The three icons at the bottom of the Home page are navigation buttons that direct users to the **General**, **Movies**, and **TV Shows** pages respectively.
 
