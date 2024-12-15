@@ -87,17 +87,18 @@ The Power BI dashboard is divided into several interactive pages, each focusing 
    ![TV Shows Page](https://github.com/JBaptisteAll/Behind_the_Stream/blob/main/Print%20Screen/TV_Show.png)
    ---
 
-Each page features interactive filters for deeper exploration, allowing users to drill down into specific countries or time periods.
+
 
 ---
 
 ### Demonstrations
 Below is a showcase of the interactive features of each page:
 
-#### Home Page
+#### Behind the Stream 🎥
 ![Overall Show Page](https://github.com/JBaptisteAll/Behind_the_Stream/blob/main/Print%20Screen/Overall_show.gif)
 - The Netflix logo at the top left corner acts as a **"Home" button**, allowing users to return to the main page.
 - The three icons at the bottom of the Home page are navigation buttons that direct users to the **General**, **Movies**, and **TV Shows** pages respectively.
+- Each page features interactive filters for deeper exploration, allowing users to drill down into specific countries or time periods.
 
 
 ---
