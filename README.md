@@ -12,7 +12,7 @@ The main objectives of this project include:
 - Exploring the predominant genres in each country.
 - Investigating seasonal patterns in the addition of new content.
 
-![Overall Show Page](https://github.com/JBaptisteAll/Behind_the_Stream_Analyzing_Netflix-s_Catalogue/blob/main/Print%20Screen/Overall_show.png)
+![Overall Show Page](https://github.com/JBaptisteAll/Behind_the_Stream/blob/main/Print%20Screen/Overall_show.gif)
 
 ---
 
@@ -65,28 +65,28 @@ The Power BI dashboard is divided into several interactive pages, each focusing 
    - Includes a world map showing the distribution of content across countries.
    
 ---
-![Home Page](https://github.com/JBaptisteAll/Behind_the_Stream_Analyzing_Netflix-s_Catalogue/blob/main/Print%20Screen/Home.png)
+![Home Page](https://github.com/JBaptisteAll/Behind_the_Stream/blob/main/Print%20Screen/Home.png)
 ---
 
 2. **General Page**:
    - Displays the most present genres, actors, and directors globally.
    - Provides insights into how genres have evolved over time.
    ---
-   ![General Page](https://github.com/JBaptisteAll/Behind_the_Stream_Analyzing_Netflix-s_Catalogue/blob/main/Print%20Screen/Page_general.gif)
+   ![General Page](https://github.com/JBaptisteAll/Behind_the_Stream/blob/main/Print%20Screen/Page_general.gif)
    ---
 
 3. **Movies Page**:
    - Focuses specifically on movies.
    - Highlights the most common genres, actors, and directors in the movies category.
    ---
-   ![Movies Page](https://github.com/JBaptisteAll/Behind_the_Stream_Analyzing_Netflix-s_Catalogue/blob/main/Print%20Screen/Page_movie.gif)
+   ![Movies Page](https://github.com/JBaptisteAll/Behind_the_Stream/blob/main/Print%20Screen/Page_movie.gif)
    ---
 
 4. **TV Shows Page**:
    - Focuses specifically on TV shows.
    - Highlights the most common genres, actors, and directors in the TV shows category.
    ---
-   ![TV Shows Page](https://github.com/JBaptisteAll/Behind_the_Stream_Analyzing_Netflix-s_Catalogue/blob/main/Print%20Screen/Page_tvshow.gif)
+   ![TV Shows Page](https://github.com/JBaptisteAll/Behind_the_Stream/blob/main/Print%20Screen/Page_tvshow.gif)
    ---
 
 Each page features interactive filters for deeper exploration, allowing users to drill down into specific countries or time periods.
